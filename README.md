@@ -12,11 +12,7 @@ Voltage Regulation
 
 Overcurrent Protection
 
+Soft-start protection
+
 Designed in EasyEDA and hosted on OSHWhub. You can view the full schematic and PCB layout here: https://oshwlab.com/darynnguyen/adapter.
 
-🛠️ Component	Description
-Bridge Rectifier	Converts AC to DC
-Capacitor	Filters ripples
-Voltage Regulator	Stabilizes output (e.g., LM7805)
-TVS Diode	Overvoltage protection
-Polyfuse	Resettable fuse for overcurrent
