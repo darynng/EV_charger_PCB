@@ -2,7 +2,8 @@
 A compact charger for powering EVs
 
 📦 Overview
-This project is a custom PCB power adapter designed to safely and efficiently convert 120VAC input to 400VDC output suitable for powering vehicles. It includes the key stages of a power supply system:
+
+This project is a custom PCB power adapter designed to convert 120VAC input to 400VDC output suitable for powering vehicles. It includes the key stages of a power supply system:
 
 Rectification
 
